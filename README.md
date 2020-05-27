@@ -3,7 +3,7 @@ The source code is now under refactoring. We will release the code as soon as po
 
 There are four parts of our code, which are the classification code, the regression code, the knowledge distilling code and the utils code, respectively.
 
-##classification
+## Classification
 prerequirements
 pytorch==1.3.0
 torchvision
@@ -23,7 +23,7 @@ after trained, run the test.py to reproduce the classification results in our pa
 python test.py 
 '''
 
-##regression
+## Regression
 prerequirements
 pytorch==1.3.0
 torchvision
@@ -44,7 +44,7 @@ after trained, run the test.py to reproduce the regression results in our paper.
 python test.py 
 '''
 
-##knowledge distilling
+## Knowledge distilling
 prerequirements
 pytorch==1.3.0
 torchvision
