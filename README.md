@@ -16,7 +16,7 @@ scikit-learn
 1. train the network
 in the classification directory,run the following command.
 ```
-python train_msnet.py
+python train_test.py
 ```
 after trained, run the test.py to reproduce the classification results in our paper.
 ```
@@ -37,7 +37,7 @@ scipy
 1. train the network
 in the regression directory,run the following command.
 ```
-python train_regression.py
+python train_test.py
 ```
 after trained, run the test.py to reproduce the regression results in our paper.
 ```
@@ -58,7 +58,7 @@ scipy
 1. train teachers networks
 in the distiling directory,run the following command.
 ```
-python train_teachers.py
+python train.py
 ```
 2. after the teachers networks were well trained, run the following command to train the target student network.
 ```
