@@ -1,5 +1,6 @@
 # Detection-of-COVID-19-from-medical-images
-The source code is now under refactoring. We will release the code as soon as possible after the work is done.
+Core files have been uploaded but in a little mess.
+The source code is now under refactoring. We will release the more readable code as soon as possible after the work is done.
 
 There are four parts of our code, which are the classification code, the regression code, the knowledge distilling code and the utils code, respectively.
 
